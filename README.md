@@ -4,7 +4,7 @@ DSBDA PRACTICALS
 
 | Assignment No. | Problem Statement  |
 | :--------------:  | :-------------- |
-|[Assignment 1] | Perform the following operations using Python on the Facebook metrics data sets
+|[Assignment 1] Perform the following operations using Python on the Facebook metrics data sets
 a. Create data subsets <br>
 b. Merge Data<br>
 c. Sort Data<br>
@@ -30,7 +30,6 @@ b. Data mining in Hive
 no. 2 and 3
 
 |[Assignment 5] |  Perform the following data visualization operations using Tableau on Adult and Iris datasets.
-
 a. 1D (Linear) Data visualization
 b. 2D (Planar) Data Visualization
 c. 3D (Volumetric) Data Visualization
