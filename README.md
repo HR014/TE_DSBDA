@@ -4,6 +4,7 @@ DSBDA PRACTICALS
 | Assignment No. & Problem Statement  |
 | :--------------:  | :-------------- |
 |[Assignment 1] | Perform the following operations using Python on the Facebook metrics data sets
+
 a. Create data subsets <br>
 b. Merge Data<br>
 c. Sort Data<br>
@@ -22,13 +23,15 @@ Dataset (Air quality):  https://www.kaggle.com/datasets/fedesoriano/air-quality-
 Dataset ( Heart Diseases ) : https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 |[Assignment 3] | Integrate Python and Hadoop and perform the following operations on forest fire dataset
+
 a. Data analysis using the Map Reduce in PyHadoop
 b. Data mining in Hive
 
 |[Assignment 4] | Visualize the data using Python libraries matplotlib,seaborn by plotting the graphs for assignment
 no. 2 and 3
 
-|[Assignment 5] |  Perform the following data visualization operations using Tableau on Adult and Iris datasets.
+|[Assignment 5] |  Perform the following data visualization operations using Tableau on Adult and Iris datasets
+
 a. 1D (Linear) Data visualization
 b. 2D (Planar) Data Visualization
 c. 3D (Volumetric) Data Visualization
