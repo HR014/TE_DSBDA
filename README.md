@@ -2,6 +2,7 @@
 DSBDA PRACTICALS
 
 | Assignment No. | Problem Statement  |
+| :--------------:  | :-------------- |
 
 |[Assignment 1] | Perform the following operations using Python on the Facebook metrics data sets.<br>
 
