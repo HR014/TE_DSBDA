@@ -4,7 +4,7 @@ DSBDA PRACTICALS
 | Assignment No. | Problem Statement  |
 | :--------------:  | :-------------- |
 
-|[Assignment 1] | 
+|[Assignment 1] |<br>
 Perform the following operations using Python on the Facebook metrics data sets.<br>
 
 a. Create data subsets <br>
@@ -15,7 +15,7 @@ e. Shape and reshape Data<br>
 Download Dataset (Facebook metrics) : from following link
 https://www.kaggle.com/datasets/masoodanzar/facebook-metrics| 
 
-|[Assignment 2] | 
+|[Assignment 2] |<br>
 Perform the following operations using Python on the Air quality and Heart Diseases data sets.<br>
 a. Data cleaning <br>
 b. Data integration<br>
@@ -26,17 +26,17 @@ Download DatasetS : from following link<br>
 Dataset (Air quality):  https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set <br>
 Dataset ( Heart Diseases ) : https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-|[Assignment 3] | 
+|[Assignment 3] |<br>
 Integrate Python and Hadoop and perform the following operations on forest fire dataset.<br>
 
 a. Data analysis using the Map Reduce in PyHadoop<br>
 b. Data mining in Hive<br>
 
-|[Assignment 4] | 
+|[Assignment 4] |<br>
 Visualize the data using Python libraries matplotlib,seaborn by plotting the graphs for assignment
 no. 2 and 3
 
-|[Assignment 5] |  
+|[Assignment 5] |<br>
 Perform the following data visualization operations using Tableau on Adult and Iris datasets.
 
 a. 1D (Linear) Data visualization<br>
